@@ -4,6 +4,20 @@ Replicate enumerables any?, all? and filter.
 # Built with
 - Ruby
 
+# Getting Started
+To get a local copy up and running follow these simple example steps.
+
+# Prerequisites
+To run this project you must to have ruby installed in your machine. If you don't have it follow the instructions [here](https://www.ruby-lang.org/en/documentation/installation/)
+
+# Setup
+Make sure you have Ruby IRB installed on your computer
+Clone or download this repo on your machine
+Enter project directory
+
+# Run
+irb main.rb
+
 # Author
 👤 **Onesis Olea**
 
